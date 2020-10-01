@@ -1,0 +1,59 @@
+body {
+  margin: 60px;
+  background-color: black;
+}
+
+.jumbotron {
+  background-color: #AA5E39;
+  color: #551C00;
+}
+
+.caption {
+  padding: 10px 10px 10px 0px;
+  color: #803815;
+}
+
+.blockquote {
+  color: #FC4A1A;
+  background-color: #FFC6AA;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+h1 {
+  font-family: Lato;
+  color: #F7B733;
+}
+
+h2 {
+  font-family: Lato;
+  color: #D48C6A;
+}
+
+h3 {
+  font-family: Lato;
+  margin: 10px 0px 10px 0px;
+  color: #F7B733;
+}
+
+p {
+  font-family: Lato;
+}
+
+li {
+  font-family: Merriweather;
+}
+
+.caption {
+  font-family: Merriweather;
+}
+.img-thumbnail {
+  padding-top: 10px;
+  background-color: #D48C6A;
+  margin: 5%;
+}
+
+iframe {
+  padding: 10px 0 10px 0;
+}
